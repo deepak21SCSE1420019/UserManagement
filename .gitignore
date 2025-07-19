@@ -1,0 +1,50 @@
+# Node modules and build output
+node_modules/
+dist/
+build/
+
+# Python virtual environment
+venv/
+
+# Logs
+logs
+*.log
+
+# Coverage
+coverage/
+.nyc_output/
+
+# dotenv environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Other Python tools
+*.egg-info/
+.eggs/
+pip-log.txt
+*.manifest
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Webpack or parcel cache
+.cache/
+webpack-stats.json
